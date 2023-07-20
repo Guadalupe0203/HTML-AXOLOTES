@@ -6,6 +6,7 @@ Para su ejecuion:
 
 
 *HTML
+
 *STYLE
 *IMAGENES
 Al descargar te apareceran estos dos archivos inportante y una carpeta en el que contine unas imagenes locales y otras de internes.
